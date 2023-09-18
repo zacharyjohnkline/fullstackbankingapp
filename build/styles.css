@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+}
+#root{
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
